@@ -147,7 +147,7 @@
 
 <a href="https://ustv247.tv/"><img src="https://i.imgur.com/tDd6SFN.png" title="USTV247  USTVGO-Clone">
 
-<a href="https://ustvgo.tv/"><img src="https://i.imgur.com/6nTopgV.png" title=USTVGO">
+<a href="https://ustvgo.tv/"><img src="https://i.imgur.com/6nTopgV.png" title="USTVGO">
 
 <a href="https://www.ustvnow.com/freetowatch"><img src="https://i.imgur.com/CuDYPHC.png" title="USTV Now">
 
