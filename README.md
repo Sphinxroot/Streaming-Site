@@ -7,7 +7,7 @@
 <a href="https://24flix.tv/"><img src="https://i.imgur.com/KHGY4Sv.png" title="24Flix TV VOD+1Live">
 <a href="https://123tv.live/category/united-states-usa/"><img src="https://i.imgur.com/jYJW9s2.png" title="123TV">
 <a href="https://www.adultswim.com/streams/"><img src="https://i.imgur.com/8d7ZD0p.png" title="AdultSwim">
-<a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Mow">
+<a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Now">
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
 <a href="https://xpd.maz.tv/apps/2780/160191"><img src="https://i.imgur.com/X9kTeRc.png" title="Anthym TV">
 <a href="https://www.youtube.com/@ArcadiaTVWorld/streams"><img src="https://i.imgur.com/fX9ZdsH.jpg" title="ArcadiaTV World Live">
