@@ -16,6 +16,7 @@
 <a href="https://www.canela.tv/"><img src="https://i.imgur.com/mSLSE2W.png" title="Canela TV">
 <a href="https://catcast.tv/tv/"><img src="https://i.imgur.com/zh3suhM.png" title="Catcast">
 <a href="https://www.cineverse.com/livetv"><img src="https://i.imgur.com/FKreNPN.jpg" title="Cineverse">
+<a href="https://cos.tv/"><img src="https://i.imgur.com/vvDaoTc.png" title="Cos.TV - VOD-Only">
 <a href="https://watch.crackstreams.me/"><img src="https://i.imgur.com/J97OqQE.png" title="CrackStream">
 <a href="https://www.dailymotion.com/search/documentary%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Documentary">
 <a href="https://www.dailymotion.com/search/movies%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Movies">
