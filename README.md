@@ -18,6 +18,7 @@
 <a href="https://catcast.tv/tv/"><img src="https://i.imgur.com/zh3suhM.png" title="Catcast">
 <a href="https://www.cineverse.com/livetv"><img src="https://i.imgur.com/FKreNPN.jpg" title="Cineverse">
 <a href="https://cos.tv/"><img src="https://i.imgur.com/vvDaoTc.png" title="Cos.TV - VOD-Only">
+<a href="https://www.crackle.com/"><img src="https://i.imgur.com/4HquV2C.png" title="Crackle +VPN USA">
 <a href="https://watch.crackstreams.me/"><img src="https://i.imgur.com/J97OqQE.png" title="CrackStream">
 <a href="https://www.dailymotion.com/search/documentary%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Documentary">
 <a href="https://www.dailymotion.com/search/movies%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Movies">
@@ -46,6 +47,7 @@
 <a href="https://livestream.com/watch/popular/live"><img src="https://i.imgur.com/52t4d8w.png" title="LiveStream">
 <a href="https://localnow.com/channels/"><img src="https://i.imgur.com/AQb8Tjo.png" title="Local Now +VPN-USA">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
+<a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
 <a href="https://watchmvn.lightcast.com/"><img src="https://i.imgur.com/UrkSSaj.png" title="MVN VOD+1Live">
 <a href="https://www.my60stv.com/"><img src="https://i.imgur.com/fVIlyhq.png" title="my60stv">
 <a href="https://www.my70stv.com/"><img src="https://i.imgur.com/vEPBEve.png" title="my70stv">
@@ -91,6 +93,7 @@
 ##
 <a href="https://topdocumentaryfilms.com/watch-online/"><img src="https://i.imgur.com/mOJRM0A.png" title="Top Documentary Films VOD-Only">
 <a href="https://trovo.live/"><img src="https://i.imgur.com/nq0Jm9H.png" title="Trovo">
+<a href="https://tubitv.com/"><img src="https://i.imgur.com/Aei10Kv.png" title="Tubi TV">
 <a href="https://brasilaovivo.tv/"><img src="https://i.imgur.com/iMXFdVd.png" title="TV Brasil AO Vivo">
 <a href="https://tvhd-online.org/"><img src="https://i.imgur.com/p0ruXEc.png" title="TV HD Online - Canale tv Romanesti">
 <a href="https://www.twitch.tv/directory/game/Always%20On"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch Always On">
