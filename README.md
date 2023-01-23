@@ -7,6 +7,7 @@
 <a href="https://24flix.tv/"><img src="https://i.imgur.com/KHGY4Sv.png" title="24Flix TV VOD+1Live">
 <a href="https://123tv.live/category/united-states-usa/"><img src="https://i.imgur.com/jYJW9s2.png" title="123TV">
 <a href="https://www.adultswim.com/streams/"><img src="https://i.imgur.com/8d7ZD0p.png" title="AdultSwim">
+<a href="https://www.afrolandtv.com/?section=channelssection"><img src="https://i.imgur.com/BaUGOjz.png" title="Afroland TV">
 <a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Now">
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
 <a href="https://xpd.maz.tv/apps/2780/160191"><img src="https://i.imgur.com/X9kTeRc.png" title="Anthym TV">
@@ -24,6 +25,7 @@
 <a href="https://www.devotv.com/?content_type=free-tv"><img src="https://i.imgur.com/c5oY4wj.png" title="DevoTV +VPN-USA">
 <a href="https://www.distro.tv/live/"><img src="https://i.imgur.com/YpLxJYs.png" title="Distro TV">
 <a href="https://dlive.tv/"><img src="https://i.imgur.com/IfDmvYK.png" title="Dlive">
+<a href="https://www.docubay.com/"><img src="https://i.imgur.com/gwtZDJ6.png" title="DocuBay VOD+1Live">
 <a href="https://emblazetv.com/"><img src="https://i.imgur.com/W0W9H6Z.png" title="Emblazed TV VOD+2lives">
 <a href="https://explore.org/livecams"><img src="https://i.imgur.com/ZOx92sg.png" title="Explore.org">
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
@@ -89,6 +91,7 @@
 <a href="https://topdocumentaryfilms.com/watch-online/"><img src="https://i.imgur.com/mOJRM0A.png" title="Top Documentary Films VOD-Only">
 <a href="https://trovo.live/"><img src="https://i.imgur.com/nq0Jm9H.png" title="Trovo">
 <a href="https://brasilaovivo.tv/"><img src="https://i.imgur.com/iMXFdVd.png" title="TV Brasil AO Vivo">
+<a href="https://tvhd-online.org/"><img src="https://i.imgur.com/p0ruXEc.png" title="TV HD Online - Canale tv Romanesti">
 <a href="https://www.twitch.tv/directory/game/Always%20On"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch Always On">
 <a href="https://www.twitch.tv/directory/game/Quality%20Television"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch Quality Television">
 <a href="https://www.twitch.tv/directory/game/Radio%20Station"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch Radio Station">
