@@ -77,6 +77,7 @@
 <a href="https://www.squidtv.net/"><img src="https://i.imgur.com/bLPUgHU.png" title="Squid TV">
 <a href="https://ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
 <a href="https://stirr.com/watchnow"><img src="https://i.imgur.com/AzpK0MO.png" title="Stirr +VPN-USA">
+<a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://streamstak.com/"><img src="https://i.imgur.com/SS6zWjd.png" title="StreamStak">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
