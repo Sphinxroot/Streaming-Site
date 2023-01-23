@@ -120,15 +120,15 @@
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
 <a href="https://www.xumo.tv/live-guide/"><img src="https://i.imgur.com/hQ96BHr.png" title="Xumo +VPN-USA">
 <a href="https://yowi.tv/"><img src="https://i.imgur.com/ALuONba.png" title="Yowi TV">
-<a href="https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube News Live">
-<a href="https://www.youtube.com/results?search_query=movies&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Movies Live">
-<a href="https://www.youtube.com/results?search_query=movies&sp=EgIQAg%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Movies Channel">
-<a href="https://www.youtube.com/results?search_query=kids&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Kids Live">
-<a href="https://www.youtube.com/results?search_query=sports&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Sports Live">
-<a href="https://www.youtube.com/results?search_query=documentary&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Documentary Live">
-<a href="https://www.youtube.com/results?search_query=documentary&sp=EgIQAg%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Documentary Channel">
-<a href="https://www.youtube.com/results?search_query=space&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Space Live">
-<a href="https://www.youtube.com/results?search_query=television&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3RfihgA.png" title="Youtube Television Live">
+<a href="https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube News Live">
+<a href="https://www.youtube.com/results?search_query=movies&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Movies Live">
+<a href="https://www.youtube.com/results?search_query=movies&sp=EgIQAg%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Movies Channel">
+<a href="https://www.youtube.com/results?search_query=kids&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Kids Live">
+<a href="https://www.youtube.com/results?search_query=sports&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/3dzXYVEZ.png" title="Youtube Sports Live">
+<a href="https://www.youtube.com/results?search_query=documentary&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Documentary Live">
+<a href="https://www.youtube.com/results?search_query=documentary&sp=EgIQAg%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Documentary Channel">
+<a href="https://www.youtube.com/results?search_query=space&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Space Live">
+<a href="https://www.youtube.com/results?search_query=television&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Television Live">
 <a href="https://www.zingotv.com/live-tv"><img src="https://i.imgur.com/vxZH43D.png" title="Zingo TV Free+Login">
 
 
