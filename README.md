@@ -142,5 +142,6 @@
 <a href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_tv_streaming"><img src="https://i.imgur.com/djk2zl5.png" title="FREEMEDIAHECKYEAH - Indexer">
 <a href="https://www.justwatch.com/"><img src="https://i.imgur.com/zC8w43Z.png" title="JustWatch - Indexer">
 <a href="https://onlinestream.live/"><img src="https://i.imgur.com/C2vz7ZM.png" title="OnlineStream - Indexer">
+<a href="https://joinpeertube.org/instances"><img src="https://i.imgur.com/KMjg3NB.png" title="PeerTube - Indexer">
 <a href="https://streamfree.tv/"><img src="https://i.imgur.com/amwuySZ.png" title="StreamFree -Indexer">
 <a href="https://streamingsites.com/"><img src="https://i.imgur.com/W66h93a.png" title="Streaming Site -Indexer">
