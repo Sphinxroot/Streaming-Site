@@ -10,9 +10,11 @@
 <a href="https://www.afrolandtv.com/?section=channelssection"><img src="https://i.imgur.com/BaUGOjz.png" title="Afroland TV">
 <a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Now">
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
+<a href="https://www.altrd.tv/"><img src="https://i.imgur.com/L9zl22d.png" title="ALTRD.TV VOD+1Live">
 <a href="https://xpd.maz.tv/apps/2780/160191"><img src="https://i.imgur.com/X9kTeRc.png" title="Anthym TV">
 <a href="https://www.youtube.com/@ArcadiaTVWorld/streams"><img src="https://i.imgur.com/fX9ZdsH.jpg" title="ArcadiaTV World Live">
 <a href="https://www.watch.avo.tv/"><img src="https://i.imgur.com/D3VAixl.png" title="Avo TV">
+<a href="https://ayozat.com/live-tv.html"><img src="https://i.imgur.com/uvGCO34.png" title="Ayozat">
 <a href="https://www.bumblebee.tv/pages/tv-2/e/live"><img src="https://i.imgur.com/TlBjPcx.png" title="Bumblebee TV">
 <a href="https://www.canela.tv/"><img src="https://i.imgur.com/mSLSE2W.png" title="Canela TV">
 <a href="https://catcast.tv/tv/"><img src="https://i.imgur.com/zh3suhM.png" title="Catcast">
@@ -29,6 +31,8 @@
 <a href="https://www.docubay.com/"><img src="https://i.imgur.com/gwtZDJ6.png" title="DocuBay VOD+1Live">
 <a href="http://www.elahmad.com/tv/"><img src="https://i.imgur.com/tyDQ47h.png" title="Elahmad TV">
 <a href="https://emblazetv.com/"><img src="https://i.imgur.com/W0W9H6Z.png" title="Emblazed TV VOD+2lives">
+<a href="https://filmzie.com/home"><img src="https://i.imgur.com/GqVzBOj.png" title="Filmzie VOD-Only">
+<a href="https://firesidechat.com/"><img src="https://i.imgur.com/X7vIHP0.png" title="Fireside">
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
@@ -39,12 +43,17 @@
 <a href="https://www.glewed.tv/movie-genre/live-tv-news/"><img src="https://i.imgur.com/aHlt8AO.png" title="Glewed">
 <a href="https://www.haystack.tv/home"><img src="https://i.imgur.com/ZGEPZ0R.png" title="Haystack News VOD-Only">
 <a href="https://play.herogotv.com/screen/tv?title=TV"><img src="https://i.imgur.com/Lc49NbW.png" title="Herogo TV">
+<a href="https://www.idreamitv.com/"><img src="https://i.imgur.com/u4tt1rE.png" title="iDream TV">
+<a href="https://www.iq.com/?lang=en_us"><img src="https://i.imgur.com/Y1wlfcJ.png" title="iQIYI VOD-Only">
 <a href="https://watch.itsrealgoodtv.com/live-tv"><img src="https://i.imgur.com/yZM34z8.png" title="ItsRealGoodTV">
 <a href="https://www.jungoplus.com/?section=linearsection"><img src="https://i.imgur.com/acHIxvn.png" title="Jungo+">
 <a href="https://www.klowdtv.com/watch.ktv"><img src="https://i.imgur.com/HRTv1wf.png" title="Klowd TV">
+<a href="https://www.lavaonline.tv/"><img src="https://i.imgur.com/zm2V2Ya.png" title="LAVA VOD+1Live">
 <a href="https://limex.tv/"><img src="https://i.imgur.com/9YiNVlE.png" title="LimeX">
 <a href="https://livestream.com/watch/popular/live"><img src="https://i.imgur.com/52t4d8w.png" title="LiveStream">
 <a href="https://localnow.com/channels/"><img src="https://i.imgur.com/AQb8Tjo.png" title="Local Now +VPN-USA">
+<a href="https://martialartsmoviechannel.com/"><img src="https://i.imgur.com/UhRvKhR.png" title="Martial Arts Movie Channel VOD-Only">
+<a href="https://www.mymillennium.tv/"><img src="https://i.imgur.com/gycDZYQ.png" title="Millennium TV VOD+1Live">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
 <a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
 <a href="https://watchmvn.lightcast.com/"><img src="https://i.imgur.com/UrkSSaj.png" title="MVN VOD+1Live">
@@ -100,6 +109,7 @@
 <a href="https://www.twitch.tv/directory/game/Talk%20Shows%20%26%20Podcasts"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch Talk-shows and Podcasts">
 <a href="https://www.twitch.tv/directory/all/tags/tv"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch TV ">
 <a href="https://www.twitch.tv/directory/game/TV%20Station%20Manager"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch TV Station Manager">
+<a href="https://uasctv.com/"><img src="https://i.imgur.com/BIuruCA.png" title="UASC TV VOD+Live">
 <a href="https://ustv247.tv/"><img src="https://i.imgur.com/tDd6SFN.png" title="USTV247  USTVGO-Clone">
 <a href="https://ustvgo.tv/"><img src="https://i.imgur.com/6nTopgV.png" title="USTVGO">
 <a href="https://www.ustvnow.com/freetowatch"><img src="https://i.imgur.com/CuDYPHC.png" title="USTV Now">
@@ -119,6 +129,7 @@
 <a href="https://watchnewslive.tv/"><img src="https://i.imgur.com/c5sNoOP.png" title="WatchNewsLive  USTVGO-Clone">
 <a href="https://www.watchyour.tv/channels.php"><img src="https://i.imgur.com/lAnicQC.png" title="WatchYour TV">
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
+<a href="https://wetv.vip/en"><img src="https://i.imgur.com/pRhYNxq.png" title="WeTV VOD-Only">
 <a href="https://www.xumo.tv/live-guide/"><img src="https://i.imgur.com/hQ96BHr.png" title="Xumo +VPN-USA">
 <a href="https://yowi.tv/"><img src="https://i.imgur.com/ALuONba.png" title="Yowi TV">
 <a href="https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube News Live">
@@ -131,6 +142,7 @@
 <a href="https://www.youtube.com/results?search_query=space&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Space Live">
 <a href="https://www.youtube.com/results?search_query=television&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube Television Live">
 <a href="https://www.zingotv.com/live-tv"><img src="https://i.imgur.com/vxZH43D.png" title="Zingo TV Free+Login">
+<a href="https://www.zoneify.tv/#/"><img src="https://i.imgur.com/2cP4PCW.png" title="zone·ify VOD-Only">
 
 
 ## ★★★★★Indexer★★★★★
