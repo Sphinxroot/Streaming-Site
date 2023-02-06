@@ -39,7 +39,7 @@
 <a href="https://filmzie.com/home"><img src="https://i.imgur.com/GqVzBOj.png" title="Filmzie VOD-Only">
 <a href="https://firesidechat.com/"><img src="https://i.imgur.com/X7vIHP0.png" title="Fireside">
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
-<a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="Freevee" title="Freevee VOD-Only">
+<a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="https://i.imgur.com/IFbbDTD.jpg" title="Freevee VOD-Only">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
 <a href="https://ginikousa.com/channels.php"><img src="https://i.imgur.com/qmaTVbv.png" title="Giniko USA">
