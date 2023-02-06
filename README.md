@@ -26,14 +26,20 @@
 <a href="https://www.dailymotion.com/search/movies%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Movies">
 <a href="https://www.dancetv.net/live"><img src="https://i.imgur.com/XWYRYj0.png" title="DanceTV">
 <a href="https://www.devotv.com/?content_type=free-tv"><img src="https://i.imgur.com/c5oY4wj.png" title="DevoTV +VPN-USA">
+<a href="https://www.digitaltv.com.cy/home?menuId=436"><img src="https://i.imgur.com/iCcP55K.png" title="Digital TV">
 <a href="https://www.distro.tv/live/"><img src="https://i.imgur.com/YpLxJYs.png" title="Distro TV">
 <a href="https://dlive.tv/"><img src="https://i.imgur.com/IfDmvYK.png" title="Dlive">
 <a href="https://www.docubay.com/"><img src="https://i.imgur.com/gwtZDJ6.png" title="DocuBay VOD+1Live">
+<a href="https://www.docplus.com/"><img src="https://i.imgur.com/ri4WBTg.png" title="Documentary+ VOD+1Live">
 <a href="http://www.elahmad.com/tv/"><img src="https://i.imgur.com/tyDQ47h.png" title="Elahmad TV">
 <a href="https://emblazetv.com/"><img src="https://i.imgur.com/W0W9H6Z.png" title="Emblazed TV VOD+2lives">
+<a href="https://www.epic-media.tv/en"><img src="https://i.imgur.com/61lBIyB.png" title="EPIC MEDIA VOD+1Live">
+<a href="https://www.filmahoy.com/all-movie-categories/"><img src="https://i.imgur.com/q8XlURF.png" title="Film Ahoy VOD-Only">
+<a href="https://www.filmdoo.com/watch-now/watch-for-free/page/1"><img src="https://i.imgur.com/RXPOCsw.jpg" title="FilmDoo VOD-Only">
 <a href="https://filmzie.com/home"><img src="https://i.imgur.com/GqVzBOj.png" title="Filmzie VOD-Only">
 <a href="https://firesidechat.com/"><img src="https://i.imgur.com/X7vIHP0.png" title="Fireside">
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
+<a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="Freevee" title="Freevee VOD-Only">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
 <a href="https://ginikousa.com/channels.php"><img src="https://i.imgur.com/qmaTVbv.png" title="Giniko USA">
@@ -52,6 +58,7 @@
 <a href="https://limex.tv/"><img src="https://i.imgur.com/9YiNVlE.png" title="LimeX">
 <a href="https://livestream.com/watch/popular/live"><img src="https://i.imgur.com/52t4d8w.png" title="LiveStream">
 <a href="https://localnow.com/channels/"><img src="https://i.imgur.com/AQb8Tjo.png" title="Local Now +VPN-USA">
+<a href="https://www.lookhu.tv/"><img src="https://i.imgur.com/XarOLPV.png" title="Lookhu TV VOD-Only">
 <a href="https://martialartsmoviechannel.com/"><img src="https://i.imgur.com/UhRvKhR.png" title="Martial Arts Movie Channel VOD-Only">
 <a href="https://www.mymillennium.tv/"><img src="https://i.imgur.com/gycDZYQ.png" title="Millennium TV VOD+1Live">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
@@ -92,6 +99,7 @@
 <a href="https://stirr.com/watchnow"><img src="https://i.imgur.com/AzpK0MO.png" title="Stirr +VPN-USA">
 <a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://streamstak.com/"><img src="https://i.imgur.com/SS6zWjd.png" title="StreamStak">
+<a href="https://strimm.com/browse-channel?category=AllChannels"><img src="https://i.imgur.com/uXff6aK.png" title="Strimm TV">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
 <a href="https://www.tikilive.com/watch/live"><img src="https://i.imgur.com/Ncsei8x.png" title="Tikilive">
