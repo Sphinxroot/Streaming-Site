@@ -91,6 +91,7 @@
 <a href="https://www.runtime.tv/linear/"><img src="https://i.imgur.com/JNiHYgT.png" title="RunTime TV">
 <a href="https://www.screambox.com/livetv"><img src="https://i.imgur.com/imgOmTY.png" title="Screambox">
 <a href="https://www.segi.tv/collection/tv?title=menu_tv"><img src="https://i.imgur.com/CWEYNVE.png" title="Segi TV">
+<a href="https://www.sevenclubstv.com/"><img src="https://i.imgur.com/aOd7U6P.png" title="Seven Clubs TV VOD-Only">
 <a href="https://www.shoutfactorytv.com/live-channels"><img src="https://i.imgur.com/Lw6nilk.png" title="ShoutFactory TV">
 <a href="https://www.sportsbay.run/"><img src="https://i.imgur.com/mVSRFhM.png" title="Sportsbay">
 <a href="https://watch.sportstribal.tv/"><img src="https://i.imgur.com/dA1KJVu.png" title="SportsTribal">
