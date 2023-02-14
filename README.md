@@ -119,8 +119,6 @@
 <a href="https://www.twitch.tv/directory/all/tags/tv"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch TV ">
 <a href="https://www.twitch.tv/directory/game/TV%20Station%20Manager"><img src="https://i.imgur.com/JqMgwJ2.png" title="Twitch TV Station Manager">
 <a href="https://uasctv.com/"><img src="https://i.imgur.com/BIuruCA.png" title="UASC TV VOD+Live">
-<a href="https://ustv247.tv/"><img src="https://i.imgur.com/tDd6SFN.png" title="USTV247  USTVGO-Clone">
-<a href="https://ustvgo.tv/"><img src="https://i.imgur.com/6nTopgV.png" title="USTVGO">
 <a href="https://www.ustvnow.com/freetowatch"><img src="https://i.imgur.com/CuDYPHC.png" title="USTV Now">
 <a href="https://vaughn.live/"><img src="https://i.imgur.com/JQ8ugY2.png" title="vaughn live">
 <a href="https://veely.tv/live/"><img src="https://i.imgur.com/wiANSS3.png" title="Veely TV">
@@ -135,7 +133,6 @@
 <a href="https://www.vivalivetv.com/watch/live"><img src="https://i.imgur.com/MaOzdPb.png" title="VivaLive TV">
 <a href="https://www.vuit.com/live/"><img src="https://i.imgur.com/pYga70u.png" title="VUit">
 <a href="https://vumoo.to/"><img src="https://i.imgur.com/0XaiPaY.png" title="Vumoo VOD-Only">
-<a href="https://watchnewslive.tv/"><img src="https://i.imgur.com/c5sNoOP.png" title="WatchNewsLive  USTVGO-Clone">
 <a href="https://www.watchyour.tv/channels.php"><img src="https://i.imgur.com/lAnicQC.png" title="WatchYour TV">
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
 <a href="https://wetv.vip/en"><img src="https://i.imgur.com/pRhYNxq.png" title="WeTV VOD-Only">
