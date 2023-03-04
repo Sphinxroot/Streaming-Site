@@ -23,6 +23,7 @@
 <a href="https://cos.tv/"><img src="https://i.imgur.com/vvDaoTc.png" title="Cos.TV - VOD-Only">
 <a href="https://www.crackle.com/"><img src="https://i.imgur.com/4HquV2C.png" title="Crackle +VPN USA">
 <a href="https://watch.crackstreams.me/"><img src="https://i.imgur.com/J97OqQE.png" title="CrackStream">
+<a href="https://daddylivehd.sx/24-7-channels.php"><img src="https://i.imgur.com/J2UPqVv.png" title="Daddy Live TV">
 <a href="https://www.dailymotion.com/search/documentary%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Documentary">
 <a href="https://www.dailymotion.com/search/movies%20english/videos?duration=more_than_1h"><img src="https://i.imgur.com/chOMpJY.png" title="DailyMotion Movies">
 <a href="https://www.dancetv.net/live"><img src="https://i.imgur.com/XWYRYj0.png" title="DanceTV">
