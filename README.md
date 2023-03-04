@@ -65,6 +65,7 @@
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
 <a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
 <a href="https://watchmvn.lightcast.com/"><img src="https://i.imgur.com/UrkSSaj.png" title="MVN VOD+1Live">
+<a href="https://www.my50stv.com/"><img src="https://i.imgur.com/QTGwA04.png" title="my50stv">
 <a href="https://www.my60stv.com/"><img src="https://i.imgur.com/fVIlyhq.png" title="my60stv">
 <a href="https://www.my70stv.com/"><img src="https://i.imgur.com/vEPBEve.png" title="my70stv">
 <a href="https://www.my80stv.com/"><img src="https://i.imgur.com/kTNJUxY.png" title="my80stv">
@@ -97,7 +98,7 @@
 <a href="https://www.sportsbay.run/"><img src="https://i.imgur.com/mVSRFhM.png" title="Sportsbay">
 <a href="https://watch.sportstribal.tv/"><img src="https://i.imgur.com/dA1KJVu.png" title="SportsTribal">
 <a href="https://www.squidtv.net/"><img src="https://i.imgur.com/bLPUgHU.png" title="Squid TV">
-<a href="https://ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
+<a href="https://v2.ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
 <a href="https://stirr.com/watchnow"><img src="https://i.imgur.com/AzpK0MO.png" title="Stirr +VPN-USA">
 <a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://streamstak.com/"><img src="https://i.imgur.com/SS6zWjd.png" title="StreamStak">
