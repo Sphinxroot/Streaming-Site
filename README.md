@@ -4,6 +4,7 @@
 
 ##
 <a href="https://30a-tv.com/m3u8-channels/"><img src="https://i.imgur.com/SJEAEkg.png" title="30a TV">
+<a href="http://hdtv.720pstream.me/"><img src="https://i.imgur.com/MFSGq7p.png" title="720p Stream">
 <a href="https://24flix.tv/"><img src="https://i.imgur.com/KHGY4Sv.png" title="24Flix TV VOD+1Live">
 <a href="https://123tv.live/category/united-states-usa/"><img src="https://i.imgur.com/jYJW9s2.png" title="123TV">
 <a href="http://123tvnow.com/"><img src="https://i.imgur.com/jYJW9s2.png" title="123TVnow">
@@ -81,6 +82,7 @@
 <a href="https://odysee.com/$/search?q=movies"><img src="https://i.imgur.com/Ufj5Wz5.png" title="Odysee Movies">
 <a href="https://odysee.com/$/search?q=documentary"><img src="https://i.imgur.com/Ufj5Wz5.png" title="Odysee Documentary">
 <a href="http://oklivetv.com/"><img src="https://i.imgur.com/uzWNjar.png" title="OkLive TV">
+<a href="http://onhockey.tv/"><img src="https://i.imgur.com/AGnreee.png" title="OnHockey.TV">
 <a href="https://directory.owncast.online/"><img src="https://i.imgur.com/L5jpe04.png" title="Owncast">
 <a href="https://photocall.tv/"><img src="https://i.imgur.com/Tdnk7UR.png" title="PhotoCall TV">
 <a href="https://app.plex.tv/desktop/#!/live-tv"><img src="https://i.imgur.com/o7yW8F0.png" title="Plex TV">
