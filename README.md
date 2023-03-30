@@ -20,6 +20,7 @@
 <a href="https://www.canela.tv/"><img src="https://i.imgur.com/mSLSE2W.png" title="Canela TV">
 <a href="https://catcast.tv/tv/"><img src="https://i.imgur.com/zh3suhM.png" title="Catcast">
 <a href="https://www.cineverse.com/livetv"><img src="https://i.imgur.com/FKreNPN.jpg" title="Cineverse">
+<a href="https://classiccinemaonline.com/"><img src="https://i.imgur.com/0gExbGp.png" title="Classic Cinema Online VOD-Only">
 <a href="https://cos.tv/"><img src="https://i.imgur.com/vvDaoTc.png" title="Cos.TV - VOD-Only">
 <a href="https://www.crackle.com/"><img src="https://i.imgur.com/4HquV2C.png" title="Crackle +VPN USA">
 <a href="https://watch.crackstreams.me/"><img src="https://i.imgur.com/J97OqQE.png" title="CrackStream">
@@ -65,6 +66,7 @@
 <a href="https://www.mymillennium.tv/"><img src="https://i.imgur.com/gycDZYQ.png" title="Millennium TV VOD+1Live">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
 <a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
+<a href="https://moviesfoundonline.com/"><img src="https://i.imgur.com/C6y0wLm.png" title="Movies Found Online VOD-Only">
 <a href="https://watchmvn.lightcast.com/"><img src="https://i.imgur.com/UrkSSaj.png" title="MVN VOD+1Live">
 <a href="https://www.my50stv.com/"><img src="https://i.imgur.com/QTGwA04.png" title="my50stv">
 <a href="https://www.my60stv.com/"><img src="https://i.imgur.com/fVIlyhq.png" title="my60stv">
@@ -88,9 +90,11 @@
 ##
 <a href="https://video.premiumfree.tv/"><img src="https://i.imgur.com/ruv0QD6.png" title="Premiumfree">
 <a href="https://rad.live/live-tv"><img src="https://i.imgur.com/oOSpovs.png" title="Rad. Free+Login">
+<a href="http://rarefilmm.com/film-index/"><img src="https://i.imgur.com/CFgmcaT.png" title="RareFilmm VOD-Only">
 <a href="https://reboot.tube/"><img src="https://i.imgur.com/avbKSfP.png" title="Reboot Tube">
 <a href="https://www.redbox.com/stream-free-live-tv"><img src="https://i.imgur.com/9skuL5O.png" title="Redbox TV +VPN-USA">
 <a href="https://watch.rewarded.tv/pages/discover/e/tv-channels"><img src="https://i.imgur.com/SZWYVzA.png" title="Rewarded">
+<a href="https://robotstreamer.com/"><img src="https://i.imgur.com/Y48zOqk.png" title="RobotStreamer">
 <a href="https://www.runtime.tv/linear/"><img src="https://i.imgur.com/JNiHYgT.png" title="RunTime TV">
 <a href="https://www.screambox.com/livetv"><img src="https://i.imgur.com/imgOmTY.png" title="Screambox">
 <a href="https://www.segi.tv/collection/tv?title=menu_tv"><img src="https://i.imgur.com/CWEYNVE.png" title="Segi TV">
