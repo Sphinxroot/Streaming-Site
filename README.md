@@ -144,6 +144,7 @@
 <a href="https://www.vivalivetv.com/watch/live"><img src="https://i.imgur.com/MaOzdPb.png" title="VivaLive TV">
 <a href="https://www.vuit.com/live/"><img src="https://i.imgur.com/pYga70u.png" title="VUit">
 <a href="https://vumoo.to/"><img src="https://i.imgur.com/0XaiPaY.png" title="Vumoo VOD-Only">
+<a href="https://vyre.tv/"><img src="https://i.imgur.com/4Hy7Umz.png" title="Vyre TV">
 <a href="https://www.watchyour.tv/channels.php"><img src="https://i.imgur.com/lAnicQC.png" title="WatchYour TV">
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
 <a href="https://wetv.vip/en"><img src="https://i.imgur.com/pRhYNxq.png" title="WeTV VOD-Only">
