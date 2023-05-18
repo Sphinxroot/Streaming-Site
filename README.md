@@ -32,6 +32,7 @@
 <a href="https://www.dancetv.net/live"><img src="https://i.imgur.com/XWYRYj0.png" title="DanceTV">
 <a href="https://www.devotv.com/?content_type=free-tv"><img src="https://i.imgur.com/c5oY4wj.png" title="DevoTV +VPN-USA">
 <a href="https://www.digitaltv.com.cy/home?menuId=436"><img src="https://i.imgur.com/iCcP55K.png" title="Digital TV">
+<a href="https://watchdingo.com/browse/channel-guide_6"><img src="https://i.imgur.com/cyGPo9O.png" title="Dingo TV">
 <a href="https://www.distro.tv/live/"><img src="https://i.imgur.com/YpLxJYs.png" title="Distro TV">
 <a href="https://dlive.tv/"><img src="https://i.imgur.com/IfDmvYK.png" title="Dlive">
 <a href="https://www.docubay.com/"><img src="https://i.imgur.com/gwtZDJ6.png" title="DocuBay VOD+1Live">
@@ -94,6 +95,7 @@
 <a href="https://video.premiumfree.tv/"><img src="https://i.imgur.com/ruv0QD6.png" title="Premiumfree">
 <a href="https://rad.live/live-tv"><img src="https://i.imgur.com/oOSpovs.png" title="Rad. Free+Login">
 <a href="http://rarefilmm.com/film-index/"><img src="https://i.imgur.com/CFgmcaT.png" title="RareFilmm VOD-Only">
+<a href="https://movies.raygun.network/"><img src="https://i.imgur.com/cYeeV7a.png" title="Raygun VOD-Only">
 <a href="https://reboot.tube/"><img src="https://i.imgur.com/avbKSfP.png" title="Reboot Tube">
 <a href="https://www.redbox.com/stream-free-live-tv"><img src="https://i.imgur.com/9skuL5O.png" title="Redbox TV +VPN-USA">
 <a href="https://watch.rewarded.tv/pages/discover/e/tv-channels"><img src="https://i.imgur.com/SZWYVzA.png" title="Rewarded">
