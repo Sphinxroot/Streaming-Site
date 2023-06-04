@@ -47,6 +47,7 @@
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
 <a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="https://i.imgur.com/IFbbDTD.jpg" title="Freevee VOD-Only">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
+<a href="https://play.glorystar.tv/screen/100?title=Live%20TV"><img src="https://i.imgur.com/TLwBbSI.png" title="GloryStar">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
 <a href="https://ginikousa.com/channels.php"><img src="https://i.imgur.com/qmaTVbv.png" title="Giniko USA">
 <a href="http://www.giniko.com/watch-by-country.php"><img src="https://i.imgur.com/3FZRzfT.png" title="Giniko World">
@@ -67,6 +68,7 @@
 <a href="https://www.lookhu.tv/"><img src="https://i.imgur.com/XarOLPV.png" title="Lookhu TV VOD-Only">
 <a href="https://martialartsmoviechannel.com/"><img src="https://i.imgur.com/UhRvKhR.png" title="Martial Arts Movie Channel VOD-Only">
 <a href="https://www.mymillennium.tv/"><img src="https://i.imgur.com/gycDZYQ.png" title="Millennium TV VOD+1Live">
+<a href="https://megogo.net/en/tv?no_redirect=1"><img src="https://i.imgur.com/aKitgEx.png" title="Mogogo">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
 <a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
 <a href="https://moviesfoundonline.com/"><img src="https://i.imgur.com/C6y0wLm.png" title="Movies Found Online VOD-Only">
@@ -78,6 +80,7 @@
 <a href="https://www.my90stv.com/"><img src="https://i.imgur.com/HavP7oa.png" title="my90stv">
 <a href="https://www.my00stv.com/"><img src="https://i.imgur.com/IoVQ2tt.png" title="my00stv">
 <a href="https://mybundle.tv/live-tv"><img src="https://i.imgur.com/vr8HODr.png" title="MyBundle TV">
+<a href="https://play.mylotv.com/screen/home"><img src="https://i.imgur.com/vsgd0MJ.png" title="Mylo TV">
 <a href="https://mytvtogo.net/"><img src="https://i.imgur.com/9lhAjO9.png" title="MyTvToGO">
 <a href="https://www.nimo.tv/"><img src="https://i.imgur.com/0p1VyF6.png" title="Nimo">
 <a href="https://www.nonolive.com/"><img src="https://i.imgur.com/5aTUgjk.png" title="NonoLive"> 
@@ -94,6 +97,7 @@
 ##
 <a href="https://video.premiumfree.tv/"><img src="https://i.imgur.com/ruv0QD6.png" title="Premiumfree">
 <a href="https://rad.live/live-tv"><img src="https://i.imgur.com/oOSpovs.png" title="Rad. Free+Login">
+<a href="https://app.radiantmedia.io/apps/203/74772-95789"><img src="https://i.imgur.com/6F4jzH7.png" title="Radiant TV">
 <a href="http://rarefilmm.com/film-index/"><img src="https://i.imgur.com/CFgmcaT.png" title="RareFilmm VOD-Only">
 <a href="https://movies.raygun.network/"><img src="https://i.imgur.com/cYeeV7a.png" title="Raygun VOD-Only">
 <a href="https://reboot.tube/"><img src="https://i.imgur.com/avbKSfP.png" title="Reboot Tube">
