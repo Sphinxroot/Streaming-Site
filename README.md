@@ -67,8 +67,8 @@
 <a href="https://localnow.com/channels/"><img src="https://i.imgur.com/AQb8Tjo.png" title="Local Now +VPN-USA">
 <a href="https://www.lookhu.tv/"><img src="https://i.imgur.com/XarOLPV.png" title="Lookhu TV VOD-Only">
 <a href="https://martialartsmoviechannel.com/"><img src="https://i.imgur.com/UhRvKhR.png" title="Martial Arts Movie Channel VOD-Only">
+<a href="https://megogo.net/en/tv?no_redirect=1"><img src="https://i.imgur.com/aKitgEx.png" title="Megogo">
 <a href="https://www.mymillennium.tv/"><img src="https://i.imgur.com/gycDZYQ.png" title="Millennium TV VOD+1Live">
-<a href="https://megogo.net/en/tv?no_redirect=1"><img src="https://i.imgur.com/aKitgEx.png" title="Mogogo">
 <a href="https://play.mometu.com/collection/tv?title=TV"><img src="https://i.imgur.com/ewHbnwo.png" title="MOMETU">
 <a href="https://movies2watch.tv/home"><img src="https://i.imgur.com/4Va9Pfm.png" title="Movies2Watch">
 <a href="https://moviesfoundonline.com/"><img src="https://i.imgur.com/C6y0wLm.png" title="Movies Found Online VOD-Only">
