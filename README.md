@@ -98,7 +98,7 @@
 <a href="https://directory.owncast.online/"><img src="https://i.imgur.com/L5jpe04.png" title="Owncast">
 <a href="https://photocall.tv/"><img src="https://i.imgur.com/Tdnk7UR.png" title="PhotoCall TV">
 <a href="https://app.plex.tv/desktop/#!/live-tv"><img src="https://i.imgur.com/o7yW8F0.png" title="Plex TV">
-<a href="https://www.youtube.com/@Popcornflix"><img src="https://i.imgur.com/33EPPws.jpg" title="Popcornflix Vod Only"">
+<a href="https://www.youtube.com/@Popcornflix"><img src="https://i.imgur.com/33EPPws.jpg" title="Popcornflix Vod Only">
 <a href="https://pluto.tv/en/live-tv/"><img src="https://i.imgur.com/fI8pXo1.png" title="Pluto TV">
 
   
