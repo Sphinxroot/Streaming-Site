@@ -1,0 +1,24 @@
+﻿best of use
+
+Firefox
+
+plugin required:
+
+Adblock plus
+Adblock youtube
+Ghostery
+no youtube comments
+Pop Blocker (Strict)
+NoScript
+Dark Reader
+
+optional:
+Greasemonkey + Sripts
+Cast Kodi - on youre Network
+
+
+
+other:
+vpn/Proxy Switcher
+
+
