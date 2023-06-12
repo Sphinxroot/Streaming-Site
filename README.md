@@ -13,7 +13,6 @@
 <a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Now">
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
 <a href="https://www.altrd.tv/"><img src="https://i.imgur.com/L9zl22d.png" title="ALTRD.TV VOD+1Live">
-<a href="https://xpd.maz.tv/apps/2780/160191"><img src="https://i.imgur.com/X9kTeRc.png" title="Anthym TV">
 <a href="https://www.youtube.com/@ArcadiaTVWorld/streams"><img src="https://i.imgur.com/fX9ZdsH.jpg" title="ArcadiaTV World Live">
 <a href="https://www.watch.avo.tv/"><img src="https://i.imgur.com/D3VAixl.png" title="Avo TV">
 <a href="https://ayozat.com/live-tv.html"><img src="https://i.imgur.com/uvGCO34.png" title="Ayozat">
