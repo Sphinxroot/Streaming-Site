@@ -22,7 +22,7 @@
 <a href="https://www.canela.tv/"><img src="https://i.imgur.com/mSLSE2W.png" title="Canela TV">
 <a href="https://www.carbontv.com/live-tv/"><img src="https://i.imgur.com/8DHVmlL.png" title="Carbon TV">
 <a href="https://catcast.tv/tv/"><img src="https://i.imgur.com/zh3suhM.png" title="Catcast">
-<a href="https://www.cineverse.com/livetv"><img src="https://i.imgur.com/FKreNPN.jpg" title="Cineverse">
+<a href="https://stream.cineverse.com/livetv"><img src="https://i.imgur.com/FKreNPN.jpg" title="Cineverse">
 <a href="https://classiccinemaonline.com/"><img src="https://i.imgur.com/0gExbGp.png" title="Classic Cinema Online VOD-Only">
 <a href="https://www.youtube.com/@classictvrewind/featured"><img src="https://i.imgur.com/SRGFeMU.jpg" title="Classic TV Rewind Vod+1Live">
 <a href="https://cos.tv/"><img src="https://i.imgur.com/vvDaoTc.png" title="Cos.TV - VOD-Only">
