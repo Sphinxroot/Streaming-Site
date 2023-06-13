@@ -118,7 +118,6 @@
 <a href="https://www.shoutfactorytv.com/live-channels"><img src="https://i.imgur.com/Lw6nilk.png" title="ShoutFactory TV">
 <a href="https://www.sportsbay.run/"><img src="https://i.imgur.com/mVSRFhM.png" title="Sportsbay">
 <a href="https://watch.sportstribal.tv/"><img src="https://i.imgur.com/dA1KJVu.png" title="SportsTribal">
-<a href="https://www.squidtv.net/"><img src="https://i.imgur.com/bLPUgHU.png" title="Squid TV">
 <a href="https://v2.ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
 <a href="https://www.youtube.com/channel/UCuE6xnCgaG0LvEGAbvn8MEg"><img src="https://i.imgur.com/81EQ2Q5.jpg" title="Stash TV VOD-Only">
 <a href="https://stirr.com/watchnow"><img src="https://i.imgur.com/AzpK0MO.png" title="Stirr +VPN-USA">
@@ -188,6 +187,7 @@
 <a href="https://www.justwatch.com/"><img src="https://i.imgur.com/zC8w43Z.png" title="JustWatch - Indexer">
 <a href="https://onlinestream.live/"><img src="https://i.imgur.com/C2vz7ZM.png" title="OnlineStream - Indexer">
 <a href="https://joinpeertube.org/instances"><img src="https://i.imgur.com/KMjg3NB.png" title="PeerTube - Indexer">
+<a href="https://www.squidtv.net/"><img src="https://i.imgur.com/bLPUgHU.png" title="Squid TV">
 <a href="https://streamfree.tv/"><img src="https://i.imgur.com/amwuySZ.png" title="StreamFree -Indexer">
 <a href="https://streamingsites.com/"><img src="https://i.imgur.com/W66h93a.png" title="Streaming Site -Indexer">
 <a href="https://tinyzonetv.to/home"><img src="https://i.imgur.com/29QL9PJ.png" title="TinyZone TV - Youtube Indexer">
