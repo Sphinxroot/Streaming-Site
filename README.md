@@ -41,9 +41,12 @@
 <a href="https://dlive.tv/"><img src="https://i.imgur.com/IfDmvYK.png" title="Dlive">
 <a href="https://www.docubay.com/"><img src="https://i.imgur.com/gwtZDJ6.png" title="DocuBay VOD+1Live">
 <a href="https://www.docplus.com/"><img src="https://i.imgur.com/ri4WBTg.png" title="Documentary+ VOD+1Live">
+<a href="https://www.dupontnow.com/live-tv"><img src="https://i.imgur.com/zDA5QMF.jpg" title="Dupont Network">
+<a href="https://e360tv.com/"><img src="https://i.imgur.com/yHcgZ9v.png" title="e360TV">
 <a href="http://www.elahmad.com/tv/"><img src="https://i.imgur.com/tyDQ47h.png" title="Elahmad TV">
 <a href="https://emblazetv.com/"><img src="https://i.imgur.com/W0W9H6Z.png" title="Emblazed TV VOD+2lives">
 <a href="https://www.epic-media.tv/en"><img src="https://i.imgur.com/61lBIyB.png" title="EPIC MEDIA VOD+1Live">
+<a href="https://fasttvnetwork.com/fast-tv"><img src="https://i.imgur.com/rcwHlqK.jpg" title="Fast TV Network">
 <a href="https://www.filmahoy.com/all-movie-categories/"><img src="https://i.imgur.com/q8XlURF.png" title="Film Ahoy VOD-Only">
 <a href="https://www.filmdoo.com/watch-now/watch-for-free/page/1"><img src="https://i.imgur.com/RXPOCsw.jpg" title="FilmDoo VOD-Only">
 <a href="https://www.youtube.com/@FilmRiseFreeMoviesAndTVShows/channels"><img src="https://i.imgur.com/nL2PJPx.jpg" title="FilmRise Vod Only">
