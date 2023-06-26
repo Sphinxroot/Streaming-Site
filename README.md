@@ -46,7 +46,7 @@
 <a href="http://www.elahmad.com/tv/"><img src="https://i.imgur.com/tyDQ47h.png" title="Elahmad TV">
 <a href="https://emblazetv.com/"><img src="https://i.imgur.com/W0W9H6Z.png" title="Emblazed TV VOD+2lives">
 <a href="https://www.epic-media.tv/en"><img src="https://i.imgur.com/61lBIyB.png" title="EPIC MEDIA VOD+1Live">
-<a href="https://fasttvnetwork.com/fast-tv"><img src="https://i.imgur.com/rcwHlqK.jpg" title="Fast TV Network">
+<a href="https://fasttvnetwork.com/fast-tv"><img src="https://i.imgur.com/vfT5X0O.png" title="Fast TV Network">
 <a href="https://www.filmahoy.com/all-movie-categories/"><img src="https://i.imgur.com/q8XlURF.png" title="Film Ahoy VOD-Only">
 <a href="https://www.filmdoo.com/watch-now/watch-for-free/page/1"><img src="https://i.imgur.com/RXPOCsw.jpg" title="FilmDoo VOD-Only">
 <a href="https://www.youtube.com/@FilmRiseFreeMoviesAndTVShows/channels"><img src="https://i.imgur.com/nL2PJPx.jpg" title="FilmRise Vod Only">
