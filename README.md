@@ -54,6 +54,7 @@
 <a href="https://firesidechat.com/"><img src="https://i.imgur.com/X7vIHP0.png" title="Fireside">
 <a href="https://flixhouse.com/cat/live-tv"><img src="https://i.imgur.com/hO8eitA.png" title="FlixHouse">
 <a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="https://i.imgur.com/IFbbDTD.jpg" title="Freevee VOD-Only">
+<a href="https://www.funimation.com/shows/"><img src="https://i.imgur.com/m3YX9TM.png" title="FUNimation">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
 <a href="https://play.glorystar.tv/screen/100?title=Live%20TV"><img src="https://i.imgur.com/TLwBbSI.png" title="GloryStar">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
@@ -130,6 +131,7 @@
 <a href="https://strimm.com/browse-channel?category=AllChannels"><img src="https://i.imgur.com/uXff6aK.png" title="Strimm TV">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
+<a href="https://thetvapp.to/tv"><img src="https://i.imgur.com/fa1XS5v.png" title="The TV App">
 <a href="https://www.tikilive.com/watch/live"><img src="https://i.imgur.com/Ncsei8x.png" title="Tikilive">
 <a href="https://www.youtube.com/@TimelessClassicMovie"><img src="https://i.imgur.com/gAUb6AE.jpg" title="Timeless Classic Movies Vod Only">
 
