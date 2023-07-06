@@ -66,6 +66,7 @@
 <a href="https://www.haystack.tv/home"><img src="https://i.imgur.com/ZGEPZ0R.png" title="Haystack News VOD-Only">
 <a href="https://play.herogotv.com/screen/tv?title=TV"><img src="https://i.imgur.com/Lc49NbW.png" title="Herogo TV">
 <a href="https://www.idreamitv.com/"><img src="https://i.imgur.com/u4tt1rE.png" title="iDream TV">
+<a href="https://player.igocast.com/live_tv.html"><img src="https://i.imgur.com/uGARIlf.png" title="iGoCast TV">
 <a href="https://www.iq.com/?lang=en_us"><img src="https://i.imgur.com/Y1wlfcJ.png" title="iQIYI VOD-Only">
 <a href="https://watch.itsrealgoodtv.com/live-tv"><img src="https://i.imgur.com/yZM34z8.png" title="ItsRealGoodTV">
 <a href="https://www.jungoplus.com/?section=linearsection"><img src="https://i.imgur.com/acHIxvn.png" title="Jungo+">
@@ -126,8 +127,9 @@
 <a href="https://v2.ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
 <a href="https://www.youtube.com/channel/UCuE6xnCgaG0LvEGAbvn8MEg"><img src="https://i.imgur.com/81EQ2Q5.jpg" title="Stash TV VOD-Only">
 <a href="https://stirr.com/watchnow"><img src="https://i.imgur.com/AzpK0MO.png" title="Stirr +VPN-USA">
-<a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://streamstak.com/"><img src="https://i.imgur.com/SS6zWjd.png" title="StreamStak">
+<a href="https://streemfire.com/watch"><img src="https://i.imgur.com/a62G2tD.png" title="StreemFire">
+<a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://strimm.com/browse-channel?category=AllChannels"><img src="https://i.imgur.com/uXff6aK.png" title="Strimm TV">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
