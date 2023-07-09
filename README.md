@@ -157,6 +157,7 @@
 <a href="https://solie.org/alibrary/index.html"><img src="https://i.imgur.com/8wCF6mG.png" title="Uncle Earl’s Classic TV VOD-Only"> 
 <a href="https://www.ustvnow.com/freetowatch"><img src="https://i.imgur.com/CuDYPHC.png" title="USTV Now">
 <a href="https://vaughn.live/"><img src="https://i.imgur.com/JQ8ugY2.png" title="vaughn live">
+<a href="https://wedotv.com/"><img src="https://i.imgur.com/9oBWKp8.png" title="WedoTV">
 <a href="https://veely.tv/live/"><img src="https://i.imgur.com/wiANSS3.png" title="Veely TV">
 <a href="https://viewnexa.tv/pages/discover-2/"><img src="https://i.imgur.com/nr4OG4T.png" title="ViewNexa TV">
 <a href="https://membed1.com/"><img src="https://i.imgur.com/tzsBsDc.png" title="VidCloud - VOD-Only">
