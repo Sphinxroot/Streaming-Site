@@ -123,7 +123,6 @@
 <a href="https://www.segi.tv/collection/tv?title=menu_tv"><img src="https://i.imgur.com/CWEYNVE.png" title="Segi TV">
 <a href="https://www.sevenclubstv.com/"><img src="https://i.imgur.com/aOd7U6P.png" title="Seven Clubs TV VOD-Only">
 <a href="https://www.shoutfactorytv.com/live-channels"><img src="https://i.imgur.com/Lw6nilk.png" title="ShoutFactory TV">
-<a href="https://www.sportsbay.run/"><img src="https://i.imgur.com/mVSRFhM.png" title="Sportsbay">
 <a href="https://watch.sportstribal.tv/"><img src="https://i.imgur.com/dA1KJVu.png" title="SportsTribal">
 <a href="https://v2.ssh101.com/watch.php"><img src="https://i.imgur.com/BNwGUcl.png" title="SSH101">
 <a href="https://www.youtube.com/channel/UCuE6xnCgaG0LvEGAbvn8MEg"><img src="https://i.imgur.com/81EQ2Q5.jpg" title="Stash TV VOD-Only">
