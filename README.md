@@ -74,6 +74,7 @@
 <a href="https://www.klowdtv.com/watch.ktv"><img src="https://i.imgur.com/HRTv1wf.png" title="Klowd TV">
 <a href="https://www.lavaonline.tv/"><img src="https://i.imgur.com/zm2V2Ya.png" title="LAVA VOD+1Live">
 <a href="https://limex.tv/"><img src="https://i.imgur.com/9YiNVlE.png" title="LimeX">
+<a href="https://www.littledotstudios.com/en-gb/channels"><img src="https://i.imgur.com/RaKSMvL.png" title="Little Dot Studio">
 <a href="https://livestream.com/watch/popular/live"><img src="https://i.imgur.com/52t4d8w.png" title="LiveStream">
 <a href="https://localnow.com/channels/"><img src="https://i.imgur.com/AQb8Tjo.png" title="Local Now +VPN-USA">
 <a href="https://www.lookhu.tv/"><img src="https://i.imgur.com/XarOLPV.png" title="Lookhu TV VOD-Only">
