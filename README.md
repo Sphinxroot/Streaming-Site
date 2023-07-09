@@ -201,7 +201,6 @@
 <a href="https://www.squidtv.net/"><img src="https://i.imgur.com/bLPUgHU.png" title="Squid TV">
 <a href="https://streamfree.tv/"><img src="https://i.imgur.com/amwuySZ.png" title="StreamFree -Indexer">
 <a href="https://streamingsites.com/"><img src="https://i.imgur.com/W66h93a.png" title="Streaming Site -Indexer">
-<a href="https://tinyzonetv.to/home"><img src="https://i.imgur.com/29QL9PJ.png" title="TinyZone TV - Youtube Indexer">
 <a href="https://worldtvmobile.com/"><img src="https://i.imgur.com/iJPWBxy.png" title="World TV Mobile">
 
 
