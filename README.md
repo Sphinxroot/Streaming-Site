@@ -14,6 +14,7 @@
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
 <a href="https://www.altrd.tv/"><img src="https://i.imgur.com/L9zl22d.png" title="ALTRD.TV VOD+1Live">
 <a href="https://www.youtube.com/@ArcadiaTVWorld/streams"><img src="https://i.imgur.com/fX9ZdsH.jpg" title="ArcadiaTV World Live">
+<a href="https://www.artflix.info/"><img src="https://i.imgur.com/d942Kky.png" title="ArtFlix">
 <a href="https://www.watch.avo.tv/"><img src="https://i.imgur.com/D3VAixl.png" title="Avo TV">
 <a href="https://ayozat.com/live-tv.html"><img src="https://i.imgur.com/uvGCO34.png" title="Ayozat">
 <a href="https://www.youtube.com/@BjgtjmeFreeMovies"><img src="https://i.imgur.com/40E0JHL.jpg" title="Bjgtjme Vod Only">
@@ -57,10 +58,11 @@
 <a href="https://www.amazon.com/gp/video/storefront/?contentType=subscription&contentId=freewithads&benefitId=freewithads"><img src="https://i.imgur.com/IFbbDTD.jpg" title="Freevee VOD-Only">
 <a href="https://www.funimation.com/shows/"><img src="https://i.imgur.com/m3YX9TM.png" title="FUNimation">
 <a href="https://galxy.tv/freetv"><img src="https://i.imgur.com/Q7V7I4S.png" title="Galxy TV">
-<a href="https://play.glorystar.tv/screen/100?title=Live%20TV"><img src="https://i.imgur.com/TLwBbSI.png" title="GloryStar">
+<a href="https://gia.tv/live.php"><img src="https://i.imgur.com/NqRlR0U.png" title="Gia TV">
 <a href="https://www.ginikofaith.com/channels.php"><img src="https://i.imgur.com/4pylfpa.png" title="Giniko Faith">
 <a href="https://ginikousa.com/channels.php"><img src="https://i.imgur.com/qmaTVbv.png" title="Giniko USA">
 <a href="http://www.giniko.com/watch-by-country.php"><img src="https://i.imgur.com/3FZRzfT.png" title="Giniko World">
+<a href="https://play.glorystar.tv/screen/100?title=Live%20TV"><img src="https://i.imgur.com/TLwBbSI.png" title="GloryStar">
 
 ##
 <a href="https://www.glewed.tv/movie-genre/live-tv-news/"><img src="https://i.imgur.com/aHlt8AO.png" title="Glewed">
