@@ -141,6 +141,7 @@
 <a href="https://www.youtube.com/@TimelessClassicMovie"><img src="https://i.imgur.com/gAUb6AE.jpg" title="Timeless Classic Movies Vod Only">
 
 ##
+<a href="https://www.toongoggles.com/"><img src="https://i.imgur.com/71tzXQd.png" title="ToonGoggle">
 <a href="https://www.topcartoons.tv/"><img src="https://i.imgur.com/PZUfYQr.png" title="TopCartoons.tv">
 <a href="https://topdocumentaryfilms.com/watch-online/"><img src="https://i.imgur.com/mOJRM0A.png" title="Top Documentary Films VOD-Only">
 <a href="https://trovo.live/"><img src="https://i.imgur.com/nq0Jm9H.png" title="Trovo">
