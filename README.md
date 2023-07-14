@@ -72,6 +72,7 @@
 <a href="https://player.igocast.com/live_tv.html"><img src="https://i.imgur.com/uGARIlf.png" title="iGoCast TV">
 <a href="https://www.iq.com/?lang=en_us"><img src="https://i.imgur.com/Y1wlfcJ.png" title="iQIYI VOD-Only">
 <a href="https://watch.itsrealgoodtv.com/live-tv"><img src="https://i.imgur.com/yZM34z8.png" title="ItsRealGoodTV">
+<a href="https://www.jagobd.com/"><img src="https://i.imgur.com/c395wtp.png" title="Jagobd">
 <a href="https://www.jungoplus.com/?section=linearsection"><img src="https://i.imgur.com/acHIxvn.png" title="Jungo+">
 <a href="https://www.klowdtv.com/watch.ktv"><img src="https://i.imgur.com/HRTv1wf.png" title="Klowd TV">
 <a href="https://www.lavaonline.tv/"><img src="https://i.imgur.com/zm2V2Ya.png" title="LAVA VOD+1Live">
