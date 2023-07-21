@@ -136,7 +136,9 @@
 <a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://strimm.com/browse-channel?category=AllChannels"><img src="https://i.imgur.com/uXff6aK.png" title="Strimm TV">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
+<a href="https://killermovie.maz.tv/apps/179/1146819-1172688"><img src="https://i.imgur.com/majzL1z.png" title="The Killer Movie Channel">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
+<a href="https://thetele.tv/"><img src="https://i.imgur.com/845oGyn.png" title="TheTele">
 <a href="https://thetvapp.to/tv"><img src="https://i.imgur.com/fa1XS5v.png" title="The TV App">
 <a href="https://www.tikilive.com/watch/live"><img src="https://i.imgur.com/Ncsei8x.png" title="Tikilive">
 <a href="https://www.youtube.com/@TimelessClassicMovie"><img src="https://i.imgur.com/gAUb6AE.jpg" title="Timeless Classic Movies Vod Only">
