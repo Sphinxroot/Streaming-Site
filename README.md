@@ -181,6 +181,7 @@
 <a href="https://www.watchyour.tv/channels.php"><img src="https://i.imgur.com/lAnicQC.png" title="WatchYour TV">
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
 <a href="https://wetv.vip/en"><img src="https://i.imgur.com/pRhYNxq.png" title="WeTV VOD-Only">
+<a href="https://platform.wim.tv/#/search?type=webtv"><img src="https://i.imgur.com/LGczcgh.png" title="WimTV">
 <a href="https://www.xumo.tv/live-guide/"><img src="https://i.imgur.com/hQ96BHr.png" title="Xumo +VPN-USA">
 <a href="https://yowi.tv/"><img src="https://i.imgur.com/ALuONba.png" title="Yowi TV">
 <a href="https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube News Live">
