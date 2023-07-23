@@ -198,6 +198,10 @@
 
 
 ## ★★★★★Indexer★★★★★
+<a href="http://teledunet.com/"><img src="https://i.imgur.com/zIdaqjl.png" title="TeleDuNet">
+<a href="https://www.cxtvlive.com/tv/countries"><img src="https://i.imgur.com/2C5y4nZ.png" title="CXTV">
+<a href="https://www.coolstreaming.us/"><img src="https://i.imgur.com/W162ETd.png" title="CoolStreaming">
+<a href="https://eja.tv/?"><img src="https://i.imgur.com/nhl7ZFV.png" title="Eja TV">
 <a href="http://m3u.cl/"><img src="https://i.imgur.com/q1O1wJL.png" title="m3u CL">
 <a href="https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html"><img src="https://i.imgur.com/NnEq9Xk.png" title="Easy Web TV - IPTV-ORG Script Player">
 <a href="https://3db7.xyz/stream/website"><img src="https://i.imgur.com/ivdNtFq.png" title="3db7 -Indexer">
