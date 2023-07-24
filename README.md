@@ -220,3 +220,6 @@
 <a href="https://www.youtube.com/@VirtualRailfan/streams"><img src="https://i.imgur.com/XLPqvPY.jpg" title="Virtual Railfan">
 <a href="https://www.youtube.com/@Vision-environnement"><img src="https://i.imgur.com/89XsCr6.jpg" title="Vision-Environnement">
 <a href="https://www.youtube.com/@watchersclub/streams"><img src="https://i.imgur.com/ENoutwE.jpg" title="Watchers Club">
+
+## ★★★★★CHANNEL★★★★★
+<a href="https://github.com/Sphinxroot/Streaming-Site/blob/main/Viloud.tv.md"><img src="https://i.imgur.com/AUeyryl.png" title="Viloud Channel">
