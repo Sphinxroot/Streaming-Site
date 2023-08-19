@@ -18,6 +18,7 @@
 <a href="https://www.watch.avo.tv/"><img src="https://i.imgur.com/D3VAixl.png" title="Avo TV">
 <a href="https://ayozat.com/live-tv.html"><img src="https://i.imgur.com/uvGCO34.png" title="Ayozat">
 <a href="https://www.youtube.com/@BjgtjmeFreeMovies"><img src="https://i.imgur.com/40E0JHL.jpg" title="Bjgtjme Vod Only">
+<a href="https://boomerflix.com/"><img src="https://i.imgur.com/A2FxNOe.png" title="BoomerFlix Vod-Only">
 <a href="https://www.bumblebee.tv/pages/tv-2/e/live"><img src="https://i.imgur.com/TlBjPcx.png" title="Bumblebee TV">
 <a href="https://www.byutv.org/"><img src="https://i.imgur.com/PTQPoGb.png" title="BYU TV VOD+1Live">
 <a href="https://www.caffeine.tv/"><img src="https://i.imgur.com/htuZ3Lm.png" title="Caffeine.tv">
