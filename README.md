@@ -101,6 +101,7 @@
 <a href="https://play.mylotv.com/screen/home"><img src="https://i.imgur.com/vsgd0MJ.png" title="Mylo TV">
 <a href="https://mytvtogo.net/"><img src="https://i.imgur.com/9lhAjO9.png" title="MyTvToGO">
 <a href="https://www.nimo.tv/"><img src="https://i.imgur.com/0p1VyF6.png" title="Nimo">
+<a href="https://nomad-slow.sotalcloud.com/collection/tv?title=Featured%20TV%20Channels"><img src="https://i.imgur.com/GyErvvO.png" title="NOMADslow.TV">
 <a href="https://www.nonolive.com/"><img src="https://i.imgur.com/5aTUgjk.png" title="NonoLive"> 
 <a href="https://odysee.com/$/search?q=movies"><img src="https://i.imgur.com/Ufj5Wz5.png" title="Odysee Movies">
 <a href="https://odysee.com/$/search?q=documentary"><img src="https://i.imgur.com/Ufj5Wz5.png" title="Odysee Documentary">
