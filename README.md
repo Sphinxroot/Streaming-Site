@@ -19,7 +19,6 @@
 <a href="https://ayozat.com/live-tv.html"><img src="https://i.imgur.com/uvGCO34.png" title="Ayozat">
 <a href="https://www.youtube.com/@BjgtjmeFreeMovies"><img src="https://i.imgur.com/40E0JHL.jpg" title="Bjgtjme Vod Only">
 <a href="https://boomerflix.com/"><img src="https://i.imgur.com/A2FxNOe.png" title="BoomerFlix Vod-Only">
-<a href="https://www.bumblebee.tv/pages/tv-2/e/live"><img src="https://i.imgur.com/TlBjPcx.png" title="Bumblebee TV">
 <a href="https://www.byutv.org/"><img src="https://i.imgur.com/PTQPoGb.png" title="BYU TV VOD+1Live">
 <a href="https://www.caffeine.tv/"><img src="https://i.imgur.com/htuZ3Lm.png" title="Caffeine.tv">
 <a href="https://www.canela.tv/"><img src="https://i.imgur.com/mSLSE2W.png" title="Canela TV">
@@ -137,6 +136,7 @@
 <a href="https://streemfire.com/watch"><img src="https://i.imgur.com/a62G2tD.png" title="StreemFire">
 <a href="https://stremium.firesidechat.com/app/channels"><img src="https://i.imgur.com/DegTGCV.png" title="Stremium Free+Login">
 <a href="https://strimm.com/browse-channel?category=AllChannels"><img src="https://i.imgur.com/uXff6aK.png" title="Strimm TV">
+<a href="https://www.tarfeeh.tv/"><img src="https://i.imgur.com/C8m7i9Y.png" title="TarFeeh.tv">
 <a href="https://www.thearchive.tv"><img src="https://i.imgur.com/15TvSzH.png" title="The Archive VOD-Only">
 <a href="https://killermovie.maz.tv/apps/179/1146819-1172688"><img src="https://i.imgur.com/majzL1z.png" title="The Killer Movie Channel">
 <a href="https://www.theta.tv/discover/streams"><img src="https://i.imgur.com/b51xVNH.png" title="Theta TV">
@@ -184,6 +184,7 @@
 <a href="https://wasd.tv/"><img src="https://i.imgur.com/FopkX0z.png" title="WASD">
 <a href="https://wetv.vip/en"><img src="https://i.imgur.com/pRhYNxq.png" title="WeTV VOD-Only">
 <a href="https://platform.wim.tv/#/search?type=webtv"><img src="https://i.imgur.com/LGczcgh.png" title="WimTV">
+<a href="https://xptv.live/"><img src="https://i.imgur.com/nCnfNV6.png" title="XPTV">
 <a href="https://www.xumo.tv/live-guide/"><img src="https://i.imgur.com/hQ96BHr.png" title="Xumo +VPN-USA">
 <a href="https://yowi.tv/"><img src="https://i.imgur.com/ALuONba.png" title="Yowi TV">
 <a href="https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D"><img src="https://i.imgur.com/dzXYVEZ.png" title="Youtube News Live">
