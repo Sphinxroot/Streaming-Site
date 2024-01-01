@@ -66,7 +66,6 @@
 ##
 <a href="https://www.glewed.tv/movie-genre/live-tv-news/"><img src="https://i.imgur.com/aHlt8AO.png" title="Glewed">
 <a href="https://www.haystack.tv/home"><img src="https://i.imgur.com/ZGEPZ0R.png" title="Haystack News VOD-Only">
-<a href="https://play.herogotv.com/screen/tv?title=TV"><img src="https://i.imgur.com/Lc49NbW.png" title="Herogo TV">
 <a href="https://www.idreamitv.com/"><img src="https://i.imgur.com/u4tt1rE.png" title="iDream TV">
 <a href="https://player.igocast.com/live_tv.html"><img src="https://i.imgur.com/uGARIlf.png" title="iGoCast TV">
 <a href="https://www.iq.com/?lang=en_us"><img src="https://i.imgur.com/Y1wlfcJ.png" title="iQIYI VOD-Only">
