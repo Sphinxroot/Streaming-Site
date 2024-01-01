@@ -10,7 +10,6 @@
 <a href="http://123tvnow.com/"><img src="https://i.imgur.com/jYJW9s2.png" title="123TVnow">
 <a href="https://www.adultswim.com/streams/"><img src="https://i.imgur.com/8d7ZD0p.png" title="AdultSwim">
 <a href="https://www.afrolandtv.com/?section=channelssection"><img src="https://i.imgur.com/BaUGOjz.png" title="Afroland TV">
-<a href="https://airednow.com/class/free-channel"><img src="https://i.imgur.com/2tRP15U.png" title="Aired Now">
 <a href="https://live.airy.tv/"><img src="https://i.imgur.com/ipVSMdx.png" title="Airy TV">
 <a href="https://www.altrd.tv/"><img src="https://i.imgur.com/L9zl22d.png" title="ALTRD.TV VOD+1Live">
 <a href="https://www.youtube.com/@ArcadiaTVWorld/streams"><img src="https://i.imgur.com/fX9ZdsH.jpg" title="ArcadiaTV World Live">
